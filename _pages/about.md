@@ -14,7 +14,7 @@ At the University of Chicago I have taken the following coursework:
 * Fundamental Computing: CS 121, CS 122
 * Data Storage: Databases, Cloud Computing
 * ML: Machine Learning for Public Policy, Math for Machine Learning, Advanced ML (NLP)
-* Statistics: Advancaed Statistics, Program Evalualtion, Time Series Analysis
+* Statistics: Advanced Statistics, Program Evalualtion, Time Series Analysis
 * Policy: Crime Prevention
 
 I also serve as the teaching assistant for R programming, Data & Programming II for Public Policy and Databases. 
