@@ -11,11 +11,11 @@ redirect_from:
 My name is Eujene Yum, a graduating student in the [M.S. in Computational Analysis and Public Policy program at the University of Chicago](https://capp.uchicago.edu/). I am interested in using machine learning models to solve interesting problems and creating pipelines for efficient data storage. 
 
 At the University of Chicago I have taken the following coursework:
-* Fundamental Computing: CS 121, CS 122
-* Data Storage: Databases, Cloud Computing
-* ML: Machine Learning for Public Policy, Math for Machine Learning, Advanced ML (NLP)
-* Statistics: Advanced Statistics, Program Evalualtion, Time Series Analysis
-* Policy: Crime Prevention
+* **Fundamental Computing:** CS 121, CS 122
+* **Data Storage:** Databases, Cloud Computing
+* **ML:** Machine Learning for Public Policy, Math for Machine Learning, Advanced ML (NLP)
+* **Statistics:** Advanced Statistics, Program Evalualtion, Time Series Analysis
+* **Policy:** Crime Prevention
 
 I also serve as the teaching assistant for R programming, Data & Programming II for Public Policy and Databases. 
 
